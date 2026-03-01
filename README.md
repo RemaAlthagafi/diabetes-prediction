@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing, visualizing, and predicting diabetes risk using patient data. We built a **Logistic Regression** model and evaluated its performance using the **F1 score**. However, the primary emphasis of the project was on **data preprocessing** rather than on machine learning modeling.
-
----
+This project focuses on analyzing, visualizing, and predicting diabetes risk using patient data. We built a **Logistic Regression** model and evaluated its performance using the **F1 score**. ---
 
 ## Dataset:
 The dataset used for this project is available on Kaggle. You can access it using the following link:
